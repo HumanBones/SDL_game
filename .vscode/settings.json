@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/src",
+        "/opt/homebrew/opt/sdl2/include/SDL2",
+        "/opt/homebrew/opt/sdl2_image/include/SDL2"
+    ],
+    "C_Cpp.default.defines": [],
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.intelliSenseMode": "macos-clang-x64"
+}
